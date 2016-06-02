@@ -9,7 +9,7 @@
 
 
 
-#define ADDR    0x04
+#define ADDR    0x02
 #define IN_A 4
 #define IN_B A3
 #define   _RX   1
